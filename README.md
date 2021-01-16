@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Busquei o conhecimento e me apaixonei com a possibilidade de ser um proficional, desde então eu pulei de stack em stack buscando mais clareza.
 Chego a acreditar que perdi tempo fazendo isso mas ao mesmo tempo sei que tenho os fundamentos bem fixado. 
 
-:green_book: Hoje eu estudo e estou completamente apaixonado pelo oque o JavaScript, ReactJS e Node.js são capazes.
+
 
 :mailbox: iago_ns@hotmail.com
 :calling:(21) 97955-2459
