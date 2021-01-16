@@ -21,8 +21,5 @@ Chego a acreditar que perdi tempo fazendo isso mas ao mesmo tempo sei que tenho 
 
 :green_book: Hoje eu estudo e estou completamente apaixonado pelo oque o JavaScript, ReactJS e Node.js são capazes.
 
-:office: Nunca trabalhei na area mas já me sinto pronto para um processo de seleção.
-
-
 :mailbox: iago_ns@hotmail.com
 :calling:(21) 97955-2459
