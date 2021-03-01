@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Sobre:
-Olá , meu nome é Iago Nascimento tenho 28 anos e um erro que eu não resolvi atrapalha o meu dia.
-Apaixonado por Tecnologia e mesmo que não fosse faria o esforço necessário para dominalas!
+Olá , meu nome é Iago Nascimento tenho 28 anos e um erro que eu não resolvi atrapalha o meu dia.<br>
+Apaixonado por Tecnologia e mesmo que não fosse faria o esforço necessário para dominalas!<br>
 Eu aprendi que ficar obsoleto é perigoso.
 
 Hoje meu foco é Java Script e o poderoso Node.js.
