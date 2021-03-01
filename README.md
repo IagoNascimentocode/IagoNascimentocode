@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Dev 👋
 
 <!--
 **IagoNascimentocode/IagoNascimentocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:zap: O que me despertou o interesse em programar foram as obras de Yuval noah harari onde ele desnumbra o potencial do programador no futuro e como talvez o futuro esteja em nossas mãos, ele explica bem ao fim do livro Homo Deus: uma breve historia do amanhã.
-Busquei o conhecimento e me apaixonei com a possibilidade de ser um proficional, desde então eu pulei de stack em stack buscando mais clareza.
-Chego a acreditar que perdi tempo fazendo isso mas ao mesmo tempo sei que tenho os fundamentos bem fixado. 
+##Sobre:
+Olá , meu nome é Iago Nascimento tenho 28 anos e um erro que eu não resolvi atrapalha o meu dia.
+Apaixonado por Tecnologia e mesmo que não fosse faria o esforço necessário para dominalas!
+Eu aprendi que ficar obsoleto é perigoso.
 
+Hoje meu foco é Java Script e o poderoso Node.js.
 
+Tecnologias que eu já estude: Html, Css, Firebase, Mongo, Bootstrap , Java e Python.
 
 :mailbox: iago_ns@hotmail.com
 :calling:(21) 97955-2459
