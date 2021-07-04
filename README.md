@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Sobre:
-Olá meu nome é Iago Nascimento, tenho 28 anos e um erro que eu não resolvi atrapalha o meu dia.<br>
+Olá meu nome é Iago Nascimento, um erro que eu não resolvi atrapalha o meu dia.<br>
 Apaixonado por Tecnologia e mesmo que não fosse faria o esforço necessário para dominalas!<br>
 Eu aprendi que ficar obsoleto é perigoso.
 
-Hoje meu foco é Java Script e o poderoso Node.js.
-
-Tecnologias que eu já estude: Html, Css, Firebase, Mongo, Bootstrap , Java e Python.
+Hoje meu foco é Java Script/Type Script e o poderoso Node.js.
 
 :mailbox: iago_ns@hotmail.com
 :calling:(21) 97955-2459
